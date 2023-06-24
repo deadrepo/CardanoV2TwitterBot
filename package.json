@@ -1,0 +1,22 @@
+{
+  "name": "cardanov2",
+  "version": "1.0.2",
+  "description": "Tweeting the current ADA Price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ikmxleo",
+  "license": "ISC",
+  "dependencies": {
+    "coingecko-api": "^1.0.10",
+    "console-stamp": "^3.0.5",
+    "cross-fetch": "^3.1.5",
+    "dotenv": "^16.0.3",
+    "sharp": "^0.30.4",
+    "twitter-api-v2": "^1.12.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "twit": "^2.2.11"
+  }
+}
